@@ -1,0 +1,8 @@
+[user]
+	username = marvinthepa
+	name = Martin Sander
+	location = Europe
+[commit]
+	gpgsign = true
+[aliases]
+	github = marvinthepa
